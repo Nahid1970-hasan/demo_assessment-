@@ -9,7 +9,7 @@ A modern web application built using Next.js with TypeScript, React components, 
 ### 1. Clone the Repository
 
 ```bash
-git clone + link
+git clone https://github.com/Nahid1970-hasan/demo_assessment-.git
 cd tech
 ```
 ### 2. Install Dependencies
